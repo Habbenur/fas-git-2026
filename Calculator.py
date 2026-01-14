@@ -1,3 +1,5 @@
+def multiply(a, b):
+    return a * b
 #här kommer en kalkylator
 def add(a, b):
     return a + b    
