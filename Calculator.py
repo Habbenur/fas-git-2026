@@ -10,3 +10,4 @@ def divide(a, b):
         return "Error: Division by zero"
     return a / b
 #här kommer kommentarer på svenska
+

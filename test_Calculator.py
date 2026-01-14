@@ -1,5 +1,6 @@
 import pytest
 from Calculator import multiply, add
+from Calculator import multiply
 
 def test_multiply_positive_numbers():
     assert multiply(2, 3) == 6
@@ -32,3 +33,4 @@ def test_add_with_zero():
 def test_add_floats():
     assert add(2.5, 4.5) == 7.0
     assert add(1.5, 2.5) == 4.0
+    assert multiply(1.5, 2.5) == 3.75
