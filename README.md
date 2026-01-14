@@ -5,3 +5,4 @@ A simple update using Github web UI.
 
 en liten ändring för branch1.
 
+en liten ändring till för branch2.
